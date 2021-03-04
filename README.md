@@ -34,3 +34,6 @@ Libraries:
 
 ### Complete Wiring Diagram
 ![schematic](https://github.com/ReemAlansary/Embedded-Systems-Project/blob/main/complete-fritzing-diagram_bb.png?raw=true)
+
+
+__For more information please view the file 5_Ard-we-know.pdf in this repository__
