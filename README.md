@@ -33,4 +33,4 @@ Libraries:
 - Arduino_FreeRTOS
 
 ### Complete Wiring Diagram
-![schematic](https://github.com/ReemAlansary/Embedded-Systems-Project/blob/main/complete-fritzing-diagram_bb?raw=true)
+![schematic](https://github.com/ReemAlansary/Embedded-Systems-Project/blob/main/complete-fritzing-diagram_bb.png?raw=true)
