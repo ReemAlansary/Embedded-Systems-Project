@@ -31,3 +31,6 @@ Libraries:
 - Adafruit_TFTLCD
 - Adafruit TouchScreen
 - Arduino_FreeRTOS
+
+### Complete Wiring Diagram
+![schematic](https://github.com/ReemAlansary/Embedded-Systems-Project/blob/main/complete-fritzing-diagram_bb?raw=true)
